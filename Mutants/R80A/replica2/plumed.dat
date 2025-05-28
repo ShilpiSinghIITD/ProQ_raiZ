@@ -1,0 +1,4 @@
+d1: DISTANCE ATOMS=1267,2114
+
+PRINT ARG=* FILE=COLVAR10_R80Aca_u8O3 STRIDE=1
+                                   
